@@ -1,7 +1,8 @@
 {
-  "first_app": "",
-  "change_calculator": "",
-  "mortgage_calculator": "",
-  "top_spots": "",
-  "vstda": ""
+  "first_app": "https://guarded-escarpment-96580.herokuapp.com/",
+  "change_calculator": "https://gc-react-change-calculator.herokuapp.com/",
+  "mortgage_calculator": "https://gc-mortgage-calculator.herokuapp.com/",
+  "top_spots": "https://gc-sandiego-top-spots.herokuapp.com/",
+  "vstda": "https://gc-vstda.herokuapp.com/",
+  "hackathon": "https://gc-hackathon.herokuapp.com/"
 }
